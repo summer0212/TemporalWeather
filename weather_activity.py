@@ -25,7 +25,7 @@ class WeatherActivity:
         url = "http://api.weatherapi.com/v1/current.json"
 
         params = {
-            "key": "",
+            "key": "8d0deae26db9464eae4144228242105",
             "q": city,
             "aqi": "no"
         }
